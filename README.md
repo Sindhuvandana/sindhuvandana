@@ -1,2 +1,1 @@
-python developer aspirant
-
+UI/UX centric Full Stack Developer
